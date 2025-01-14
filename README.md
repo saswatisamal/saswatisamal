@@ -19,6 +19,5 @@
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-important?style=for-the-badge&logo=data&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-critical?style=for-the-badge&logo=algorithms&logoColor=white)
 [![Microservices](https://img.shields.io/badge/Microservices-critical?style=for-the-badge&logoColor=white&color=blue)](your_link_here)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
-
+![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
