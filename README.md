@@ -2,10 +2,11 @@
 
 
 ### 🚀 About Me  
-🔧 Self-driven and passionate coder with a love for solving problems and writing efficient code.
-💻 My tech stack revolves around Java, Spring Boot, Microservices, Kafka, Redis,Docker,AWS,Postgress and MySQL.
-💡 I'm always up for a deep dive into System Design (LLD + HLD), Data Structures, and core Computer Concepts.
-🤝 Always up to collaborate on Open-Source Projects and contribute to the community.
+
+.🔧 Self-driven and passionate coder with a love for solving problems and writing efficient code.
+.💻 My tech stack revolves around Java, Spring Boot, Microservices, Kafka, Redis,Docker,AWS,Postgress and MySQL.
+.💡 I'm always up for a deep dive into System Design (LLD + HLD), Data Structures, and core Computer Concepts.
+.🤝 Always up to collaborate on Open-Source Projects and contribute to the community.
 
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white) 
