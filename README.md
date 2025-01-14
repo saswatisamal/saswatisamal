@@ -1,8 +1,7 @@
  # Hello 👋 I am SASWATI SAMAL
 
 
-[![About me](https://img.shields.io/badge/About_me-Informational?style=for-the-badge&logo=person&logoColor=white)](your_link_here)
-
+[![🙋‍♂️ About me](https://img.shields.io/badge/About_me-Informational?style=for-the-badge&logo=person&logoColor=white)](https://www.example.com/about)
 
 - 🔧 Self-driven and passionate coder with a love for solving problems and writing efficient code.  
 - 💻 My tech stack revolves around Java, Spring Boot, Microservices, Kafka, Redis, Docker, AWS, PostgreSQL, and MySQL.  
