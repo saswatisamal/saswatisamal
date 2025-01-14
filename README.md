@@ -21,3 +21,5 @@
 [![Microservices](https://img.shields.io/badge/Microservices-critical?style=for-the-badge&logoColor=white&color=blue)](your_link_here)
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
+![HLD](https://img.shields.io/badge/HLD-blue?style=for-the-badge&logo=architecture&logoColor=white)
+![LLD](https://img.shields.io/badge/LLD-green?style=for-the-badge&logo=architecture&logoColor=white)
