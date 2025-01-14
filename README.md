@@ -19,13 +19,4 @@
 
 
 
-### 🌱 Currently Exploring  
-- Advanced **Cloud Architectures**.  
-- More in-depth **System Design** principles.  
 
----
-
-### 🤝 Let's Connect!  
-Feel free to collaborate with me on exciting projects or reach out for a chat about tech!  
-
--->
