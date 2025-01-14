@@ -6,8 +6,6 @@
 - 💡 I'm always up for a deep dive into System Design (LLD + HLD), Data Structures, and core Computer Concepts.  
 - 🤝 Always up to collaborate on Open-Source Projects and contribute to the community.
 
----
-
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&logo=spring&logoColor=white) 
 ![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka&logoColor=white) 
